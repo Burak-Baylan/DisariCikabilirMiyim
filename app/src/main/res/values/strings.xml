@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Dışarı Çıkabilir Miyim</string>
+
+    <string name="sartlar"> Burada verilen bilgiler yasal bilgi olarak kabul edilemez.\n\nBurada verilen bilgiler ışığında dışarıya çıkıp ceza ile karşılaşılması durumunda bizim herhangi bir yasal sorumluluğumuz bulunmamaktadır. </string>
+
+    <string name="info">Her yaş kitlesine göre ->\nAkşam saat 21:00, ertesi gün sabah 05:00 arası sokağa çıkmak yasak.\nAyrıca her yaş kitlesine hafta sonları Cuma akşamı 21:00, Pazartesi sabah 05:00 arası sokağa çıkmak yasak.\n\n20 Yaşından Küçükseniz ->\nHafta içi 13:00 - 16:00 saatleri arasında dışarı çıkabilirsiniz, diğer saatlerde sokağa çıkmanız yasak.\nFakat çalışanların ve bunu belgeyle kanıtlayabilenlerin dışarı çıkması serbest.\n(Ayriyeten her yaş kitlesine uygulanan yasaklar.)\n\n20 - 65 Yaş Arasındaysanız ->\nHer yaş kitlesine uygulanan yasaklar dışında ekstra yasak yok.\n\n65 Yaşından Büyükseniz ->\nHafta içi 10:00 - 13:00 saatleri arası dışarı çıkabilirsiniz, diğer saatlerde sokağa çıkmanız yasak.\nFakat çalışanlar ve bunu belgeyle kanıtlayabilenlerin dışarı çıkması serbest.\n(Ayrieten her yaş kitlesine uygulanan yasaklar.)\n\nDİKKAT!\nDışarı çıkabiliyorsak lütfen maske ve mesafe kuralına uyalım!</string>
+
+    <string name="yas_yanlis_mi">Galibe yaşını girerken yanlışlık yaptın. Lütfen tekrar dene.</string>
+
 </resources>
